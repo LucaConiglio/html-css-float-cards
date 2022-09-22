@@ -32,6 +32,9 @@ ul{
 ul li{
     padding-top: 0.4rem;  
 }
+img{
+    float: left;
+}
 .mail{
     color: rgb(48, 170, 225);
 }
@@ -45,7 +48,7 @@ ul li{
     color: white;
     box-shadow: 5px 5px 5px gray;
     float: left;
-    width: calc(100%/3 - 2rem) ;
+    width: calc( 100% / 3 - 2rem);
     margin-bottom: 3rem;
 }
 .center{
